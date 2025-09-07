@@ -1,7 +1,7 @@
-# [Group name]
+# [TeamA]
 
 **Group members:**
-- A
+- Nikolaj
 - B
 - C
 
